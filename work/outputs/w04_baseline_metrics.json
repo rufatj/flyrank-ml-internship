@@ -1,0 +1,8 @@
+{
+  "base_rate": 0.5420666666666667,
+  "n_rows": 30000,
+  "n_flagged": 6781,
+  "precision_at_10": 1.0,
+  "precision_at_50": 0.74,
+  "precision_at_100": 0.67
+}
